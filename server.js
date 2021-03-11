@@ -23,6 +23,10 @@ var foo = [
     {
         "id": "103",
         "text": "toast"
+    },
+    {
+        "id":"104",
+        "text": "bacon"
     }
 ];
 
